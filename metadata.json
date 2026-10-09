@@ -1,0 +1,6 @@
+{
+  "name": "Mahdi Cali School",
+  "description": "Habka maamulka dugsiga Mahdi Cali - maamulka ardayda, natiijooyinka, imaanshaha, jadwalka, iyo kharashaadka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
